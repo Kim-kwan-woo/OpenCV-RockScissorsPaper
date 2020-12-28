@@ -37,7 +37,7 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62555935/103211383-64f3b480-494b-11eb-800f-fe395df12769.png", width="400"/>
-<img src="https://user-images.githubusercontent.com/62555935/103211389-691fd200-494b-11eb-99e8-6b506a922378.png", width="400"/>
+<img src="https://user-images.githubusercontent.com/62555935/103211389-691fd200-494b-11eb-99e8-6b506a922378.png", width="600"/>
 <img src="https://user-images.githubusercontent.com/62555935/103211394-6ae99580-494b-11eb-82d9-fcd3d62d3098.png", width="400"/>
 </p>
 
@@ -54,3 +54,5 @@ $ git clone https://github.com/Kim-kwan-woo/OpenCV-RockScissorsPaper.git
 2. Download opencv 3.4.1
 
 3. Compile project and start program
+
+4. If you want to exit program, press ESC button
